@@ -1,0 +1,17 @@
+/usr/lib/libqsl.so
+/usr/include/QSL/QSLGlobal.h
+/usr/include/QSL/QSLMath.h
+/usr/include/QSL/QSLPhysics.h
+/usr/include/QSL/QSLComplex.h
+/usr/include/QSL/QSLArray1D.h
+/usr/include/QSL/QSLArray2D.h
+/usr/include/QSL/QSLFitEngine.h
+/usr/include/QSL/QSLFitLine.h
+/usr/include/QSL/QSLGraph.h
+/usr/include/QSL/QSLPlot.h
+/usr/include/QSL/QSLPlotable.h
+/usr/include/QSL/QSLPlotArea.h
+/usr/include/QSL/QSLPlotCartesian.h
+/usr/include/QSL/QSLPlotCartesianSet.h
+/usr/include/QSL/QSLPlotLegend.h
+/usr/include/QSL/QSLPlotScale.h
